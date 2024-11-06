@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=35&duration=4500&pause=1000&color=920000&background=FFFFFF00&center=true&width=435&lines=Michael+Marsillo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=800&size=60&duration=4500&pause=1000&color=920000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Michael+Marsillo)](https://git.io/typing-svg)
 
 # 💫 About Me:
 👨🏼‍🏭 I’m currently working on CP213, CP220, CP214, CP264, CP216<br>📖 I’m currently learning Python and Java<br>📭 Contact me at: mars7769@mylaurier.ca
