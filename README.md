@@ -9,13 +9,12 @@
 👨🏼‍🏭 I’m working on CP213, CP220, CP214, CP264, and CP216<br>📖 I’m currently learning Python and Java<br>📭 Contact me at: mars7769@mylaurier.ca
 
 ## 🔧 Current Tools
-
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg" alt="Python"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/java.svg" alt="Java"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cplusplus.svg" alt="C++"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub"></a> &nbsp;&nbsp;
-<a target="_blank" href="https://leetcode.com/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/leetcode.svg" alt="LeetCode"></a> &nbsp;&nbsp;
-<a target="_blank" href="https://www.hackerrank.com/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/hackerrank.svg" alt="Hackerrank"></a> &nbsp;&nbsp;
+![Python](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/python.svg)
+![C++](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/cplusplus.svg)
+![Java](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/java.svg)
+![Github](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/github.svg)
+![LeetCode](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/leetcode.svg)
+![HackerRAnk](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/hackerrank.svg)
 
 
 ## 💻 Tech I LIke
