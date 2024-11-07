@@ -10,8 +10,8 @@
 
 ## 🔧 Current Tools
 ![Python](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/python.svg)
-![C++](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/cplusplus.svg)
 ![Java](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/java.svg)
+![C++](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/cplusplus.svg)
 ![Github](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/github.svg)
 ![LeetCode](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/leetcode.svg)
 ![HackerRAnk](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/hackerrank.svg)
