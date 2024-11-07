@@ -4,8 +4,6 @@
 
 <img src="https://img.icons8.com/?size=512&id=y8q66v6ExjBy&format=png" width="40px">
 
-[![](https://visitcount.itsvg.in/api?id=michaelmarsillo&icon=7&color=1)](https://visitcount.itsvg.in)
-
 
 ## Hello👋🏼
 👨🏼‍🏭 I’m working on CP213, CP220, CP214, CP264, and CP216<br>📖 I’m currently learning Python and Java<br>📭 Contact me at: mars7769@mylaurier.ca
@@ -31,8 +29,11 @@
 
 
 ## ✌🏼 Thanks For Stopping By,
-![Berserk GIF](https://github.com/michaelmarsillo/michaelmarsillo/blob/main/Berserk.gif?raw=true)
+![Berserk GIF](https://github.com/michaelmarsillo/michaelmarsillo/blob/main/Berserk.gif?raw=true)<br/>
+<br/>
+[![](https://visitcount.itsvg.in/api?id=michaelmarsillo&icon=7&color=1)](https://visitcount.itsvg.in)
 
+---
 ## 🌐 Lets Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmarsillo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michaelmarsillo/)
