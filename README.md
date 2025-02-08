@@ -8,12 +8,7 @@
 👨🏼‍🏭 I’m working on CP264 and CP216<br>📖 I’m currently learning C and Assembly <br>📭 Contact me at: mars7769@mylaurier.ca
 
 ## 🔧 Current Tools
-![Python](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/python.svg)
-![Java](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/java.svg)
-![C++](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/cplusplus.svg)
-![Github](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/github.svg)
-![LeetCode](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/leetcode.svg)
-![HackerRAnk](https://raw.githubusercontent.com/michaelmarsillo/michaelmarsillo/a0221859d216b7eff4c2a56b71c0dda1139db364/SVG%20Docs/hackerrank.svg)
+[![My Tools](https://skillicons.dev/icons?i=markdown,python,java,javascript,c,html,css,react,git,github,)](https://skillicons.dev)
 
 
 ## 💻 Tech I LIke
