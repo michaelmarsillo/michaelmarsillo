@@ -8,7 +8,7 @@
 👨🏼‍🏭 I’m working on CP264 and CP216<br>📖 I’m currently learning C and Assembly <br>📭 Contact me at: mars7769@mylaurier.ca
 
 ## 🔧 Current Tools
-[![My Tools](https://skillicons.dev/icons?i=markdown,python,java,javascript,c,html,css,react,tailwind,git,github,)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=markdown,python,java,javascript,nodejs,nextjs,c,html,css,react,tailwind,git,github,)](https://skillicons.dev)
 
 
 ## 💻 Tech I LIke
