@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=55&pause=1000&color=8A0707&center=true&vCenter=true&width=435&lines=Michael+Marsillo)](https://git.io/typing-svg)
 
-## Hello👋🏼
-👨🏼‍🏭 I’m working on CP264 and CP216<br>📖 I’m currently learning C and Assembly <br>📭 Contact me at: mars7769@mylaurier.ca
 
 ## 🔧 Current Tools
 [![My Tools](https://skillicons.dev/icons?i=markdown,python,java,javascript,nodejs,nextjs,c,html,css,react,tailwind,git,github,)](https://skillicons.dev)
