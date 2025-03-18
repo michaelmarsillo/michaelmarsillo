@@ -17,7 +17,7 @@
 ## 🚀 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=michaelmarsillo&show_icons=true&theme=shadow_red)<br/>
 
-## 📝 Languages
+## 📃 Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmarsillo&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
@@ -30,4 +30,3 @@
 ## 🌐 Lets Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmarsillo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michaelmarsillo/)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
