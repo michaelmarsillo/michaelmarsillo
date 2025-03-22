@@ -1,30 +1,45 @@
+
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=40&pause=1000&color=8A0707&center=true&vCenter=true&width=600&lines=Michael+Marsillo)](https://git.io/typing-svg)<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=michaelmarsillo&label=Profile%20Views&color=6f0000&style=for-the-badge&base=1500)
 
-<img src="https://img.icons8.com/?size=512&id=y8q66v6ExjBy&format=png" width="38px">
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=55&pause=1000&color=8A0707&center=true&vCenter=true&width=435&lines=Michael+Marsillo)](https://git.io/typing-svg)
+<div align="left">
+
+## ⏳ Recently
+cs @ [laurier](https://www.wlu.ca/)
+- shipped a [product](https://marxpdf.vercel.app/) for a utility locating company to automate the process of paperwork 👷🏼‍♂️ <br>
+- developed another [product](https://github.com/CVLens/CVLens) for swift resume parsing to streamline the application process 🔍 <br>
+- diving deep into the fundamentals and intricacies of web development 🌐
 
 
-## 🔧 Current Tools
+
+</div>
+  
+## 🔧 Tech Stack
 [![My Tools](https://skillicons.dev/icons?i=markdown,python,java,javascript,nodejs,nextjs,c,html,css,react,tailwind,git,github,)](https://skillicons.dev)
 
 
-## 💻 Tech I LIke
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+## 🌎 Connect With Me
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://img.icons8.com/?size=512&id=y8q66v6ExjBy&format=png" width="60px">
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/michaelmarsillo/michaelmarsillo/blob/main/Berserk.gif?raw=true" width="600" alt="Berserk GIF">
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://static.wikia.nocookie.net/characterprofile/images/0/01/Guts_Berserk_Render.png/revision/latest/scale-to-width-down/250?cb=20231112030330" width="70px">
+    </td>
+  </tr>
+</table>
 
-## 🚀 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=michaelmarsillo&show_icons=true&theme=shadow_red)<br/>
-
-## 📃 Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmarsillo&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-## ✌🏼 Thanks For Stopping By,
-![Berserk GIF](https://github.com/michaelmarsillo/michaelmarsillo/blob/main/Berserk.gif?raw=true)<br/>
-![](https://komarev.com/ghpvc/?username=michaelmarsillo&label=Profile%20views&color=6f0000&style=for-the-badge&base=1143)
-<br/>
-
----
-## 🌐 Lets Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmarsillo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michaelmarsillo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michaelmarsillo/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23696969.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/michaelmarsillo/)
+
+
+
