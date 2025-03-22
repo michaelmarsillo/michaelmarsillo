@@ -32,7 +32,7 @@ cs @ [laurier](https://www.wlu.ca/)
       <img src="https://github.com/michaelmarsillo/michaelmarsillo/blob/main/Berserk.gif?raw=true" width="600" alt="Berserk GIF">
     </td>
     <td align="center" style="border: none;">
-      <img src="https://static.wikia.nocookie.net/characterprofile/images/0/01/Guts_Berserk_Render.png/revision/latest/scale-to-width-down/250?cb=20231112030330" width="70px">
+      <img src="https://static.wikia.nocookie.net/characterprofile/images/0/01/Guts_Berserk_Render.png/revision/latest/scale-to-width-down/250?cb=20231112030330" width="75px">
     </td>
   </tr>
 </table>
