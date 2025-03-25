@@ -9,7 +9,6 @@
 <div align="left">
 
 ## ⏳ Lately
-cs @ [laurier](https://www.wlu.ca/)
 - launched a [product](https://marxpdf.vercel.app/) for a utility locating company to automate the process of paperwork for 40+ employees 👷🏼‍♂️ <br>
 - developed another [product](https://github.com/CVLens/CVLens) for swift resume parsing to streamline the application process 🔍 <br>
 - diving deep into the fundamentals and intricacies of web development 🌐
