@@ -11,7 +11,7 @@
 ## *⏳ Lately*
 - launched a [tool](https://marxpdf.vercel.app/) for a utility locating company to automate the process of paperwork for 40+ employees 👷🏼‍♂️ <br>
 - developed a [model](https://cvlens.vercel.app) for swift resume parsing to streamline the application process 🔍 <br>
-- diving deep into the fundamentals and intricacies of web development 🌐
+- built and shipped a [tfsa calculator](https://roomify-m.vercel.app/) app in 24hrs to help users calculate their TFSA contributions and balances 💰
 
 
 
