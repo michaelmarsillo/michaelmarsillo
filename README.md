@@ -16,9 +16,6 @@
 
 
 </div>
-  
-## 🔧 Tech Stack
-[![My Tools](https://skillicons.dev/icons?i=markdown,python,java,javascript,nodejs,nextjs,c,html,css,react,tailwind,git,github,)](https://skillicons.dev)
 
 
 ## 🌎 Connect With Me
