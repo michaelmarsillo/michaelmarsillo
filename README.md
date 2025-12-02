@@ -13,12 +13,6 @@
 </div>
 
 
-## 🌎 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michaelmarsillo/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michaelmarsillo/)
-[![Twitter](https://img.shields.io/badge/Twitter-%23696969.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/michaelmarsillo/)
-
 <table style="border: none;">
   <tr>
     <td align="center" style="border: none;">
