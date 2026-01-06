@@ -9,7 +9,8 @@
 <div align="left">
 
 ## *⏳ Lately*
-- building [cloudstream](https://www.ricoh.ca/en-CA/products/pd/software/mobile-printing-and-sharing/ricoh-cloudstream) @ [ricoh](https://ricoh.ca) ☁️ <br>
+- learning @ [laurier](https://www.wlu.ca) 💜 <br>
+- built a real-time multiplayer music [game](https://www.audiofy-m.vercel.app) with 4 game modes, websockets, and a global leaderboard 🥇 <br>
 </div>
 
 
