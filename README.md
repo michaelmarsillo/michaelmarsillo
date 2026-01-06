@@ -10,7 +10,7 @@
 
 ## *⏳ Lately*
 - learning @ [laurier](https://www.wlu.ca) 💜 <br>
-- built a real-time multiplayer music [game](https://www.audiofy-m.vercel.app) with 4 game modes, websockets, and a global leaderboard 🥇 <br>
+- built a real-time multiplayer music [game](https://audiofy-m.vercel.app) with 4 game modes, websockets, and a global leaderboard 🥇 <br>
 </div>
 
 
