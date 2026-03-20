@@ -11,7 +11,7 @@
 ## *⏳ Lately*
 - learning @ [laurier](https://www.wlu.ca) 💜 <br>
 - built a real-time multiplayer music [game](https://audiofy-m.vercel.app) with 4 game modes, websockets, and a global leaderboard 🥇 <br>
-- been working on my [content](https://www.youtube.com/@michaelmarsillofit) game 📷 (go sub 🫶🏼)
+- working on my [content](https://www.youtube.com/@michaelmarsillofit) game 📷 (go sub 🫶🏼)
   </div>
 
 
