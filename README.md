@@ -6,14 +6,7 @@
 
 ---
 
-<div align="left">
-
-## *⏳ Lately*
-- building cloudstream @ [ricoh](https://www.ricoh-usa.com/en/products/pd/software/mobile-printing-and-sharing/ricoh-cloudstream) ☁️ <br>
-- built a real-time multiplayer music [game](https://audiofy-m.vercel.app) with 4 game modes, websockets, and a global leaderboard 🥇 <br>
-- working on my [content](https://www.youtube.com/@michaelmarsillofit) game 📷 (go sub 🫶🏼)
-  </div>
-
+adaptation is the only way forward
 
 <table style="border: none;">
   <tr>
